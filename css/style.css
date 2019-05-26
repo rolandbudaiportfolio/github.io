@@ -469,8 +469,8 @@ span.border.one:after {
 .about-right{
 	float: left;
 	padding:0;
-	background:url(../images/about-pic.jpg) no-repeat 0px 0px;
-	min-height:580px;
+	/* background:url(../images/about-pic.jpg) no-repeat 0px 0px; */
+	/* min-height:580px; */
 	background-size: cover;
    -o-background-size: cover;
    -webkit-background-size: cover;
